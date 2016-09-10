@@ -1,0 +1,1 @@
+This is a repository for the Grading script used for the CSE 10 class at the University of Nebraska-Lincoln. Two other TA's and I have created this script in order to make the grading for the CSE10 class more efficient. Darin Barth, Priamwad Poudel, and I (Dominic Hezel) are the creators of this script. It is to be used and improved upon by future TA's of this class.  
